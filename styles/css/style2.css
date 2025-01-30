@@ -1,7 +1,5 @@
 #div1 {
     background-color: blueviolet;
-    height: 60px;
-    width: 100%;
 }
 #span1 {
     background-color: green;
@@ -19,6 +17,8 @@
 
 #div2 {
     background-color: red;
+}
+
+.element {
     height:60px;
-    width:100%;
 }
