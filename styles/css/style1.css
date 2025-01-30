@@ -1,0 +1,27 @@
+h1 {
+    color: #a83236;
+    font-size: 60px
+}
+h2 {
+    color: #3246a8;
+    font-family: Arial;
+}
+h3 {
+    color: #faf14d;
+    background-color: grey;
+}
+
+#div1 {
+    background-color:#a83236;
+    height: 50px;
+    width: 250px;
+}
+    
+
+#div2 { background-color:#3246a8;
+    height: 60px;
+    width: 150px;}
+
+#div3 {background-color:#faf14d;
+    height: 50px;
+    width: 50px; }
