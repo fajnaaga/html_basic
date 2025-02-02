@@ -1,0 +1,17 @@
+#box1 {
+background-color: #050584;
+}
+#box2 {
+background-color: #301414
+}
+#box3 {
+background-color: rgb(82, 3, 82)
+}
+#box4 {
+background-color: rgb(148, 26, 26)
+}
+.box {
+    height:400px;
+    width:24%;
+    display: inline-block;
+}
