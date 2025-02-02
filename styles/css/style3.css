@@ -1,0 +1,20 @@
+.element {
+    color: #f3f4f3;
+    background-color: #3250a8;
+    height: 80px; 
+    width: 100%;
+}
+#sidebar {
+    color: #ffffff;
+    background-color: #5c0450;
+    height: 800px;
+    width: 500px;
+    display: inline-block;
+}
+#content {
+    color: #ffffff;
+    background-color: #6a6868a3;
+    height: 800px;
+    width: 800px;
+    display: inline-block;
+}
