@@ -1,0 +1,27 @@
+#box1 {
+   background-color:#ff0000; 
+}
+
+#box2 {
+    background-color:#008000;
+    height: 100px;
+    width: 100px;
+}
+
+#box3 {
+    background-color:#0000ff;
+}
+
+#box4 {
+    background-color:#ffff00;
+    height: 100px;
+    width: 100px;
+
+}
+#parent {
+    display:flex;
+}
+.box {
+    height: 200px;
+    width: 200px;
+}
