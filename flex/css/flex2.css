@@ -1,0 +1,27 @@
+#box1 {
+    background-color: #3838da ;
+}
+
+.box {
+    width: 80px;
+    height: 80px; 
+}
+
+#box2 {
+    background-color: #b330b3;
+}
+
+#box3 {
+    background-color: #5d0606;
+
+}
+
+#box4 {
+    background-color: #1d971d;
+}
+#container {
+    display:flex;
+    background-color: #80808088;
+    padding: 20px;
+
+}
