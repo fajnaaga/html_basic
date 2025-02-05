@@ -1,0 +1,26 @@
+#container {
+    background-color: #808080cb;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: flex-end;
+
+}
+.box {
+    height: 80px;
+    width: 80px;
+}
+#box1 {
+    background-color: #0000ff;
+}
+#box2 {
+    background-color: #9b189bbd;
+}
+#box3 {
+    background-color: #c90808;
+}
+#box4 {
+    background-color: #22b122;
+}
