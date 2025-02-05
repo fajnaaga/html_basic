@@ -21,7 +21,7 @@
 }
 #container {
     display:flex;
-    background-color: #80808088;
     padding: 20px;
-
+    background-color: #808080;
+    justify-content: space-around;
 }
