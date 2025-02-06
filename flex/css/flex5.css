@@ -1,0 +1,23 @@
+#container {
+    display: flex;
+}
+.box {
+}
+#box1 {
+    flex:1;
+    background-color: #0000ff;
+}
+#box2 {
+    flex:2;
+    background-color: #189b32bd;
+}
+#box3 {
+    flex:4;
+    background-color: #cc217c;
+}
+#box4 {
+    flex:2;
+    background-color: #494c49;
+}
+
+
