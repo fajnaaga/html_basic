@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+}
+
+#content {
+    flex: 3;
+}
+
+#sidebar {
+    flex: 1;
+    background-color: blueviolet;
+    height: 100vh;
+}
