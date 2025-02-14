@@ -1,0 +1,10 @@
+#footer {
+    background-color: blue;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
