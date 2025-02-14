@@ -1,0 +1,10 @@
+#navbar {
+    background-color: blue;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#input {
+    width: 200px;
+}
