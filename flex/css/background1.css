@@ -1,0 +1,29 @@
+#parent {
+display: flex;
+height: 100vh;
+
+}
+#box1 {
+background-color: #0080009e;
+flex: 2;
+color: #ffffff;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#box2 {
+background-color: #ffa500;
+color: #ffffff;
+flex: 3;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#box3 {
+background-color: #0000ff;
+color: #ffffff;
+flex: 1;
+display: flex;
+align-items: center;
+justify-content: center;
+}
