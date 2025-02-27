@@ -1,0 +1,44 @@
+#header{
+    background-color: #040457;
+    height: 80px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+#navbar{
+    display: flex;
+    gap: 24px;
+    background-color:#08dada;
+    height: 40px;
+    align-items: center;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.sidebar {
+    background-color: #efa721;
+    height: 100%;
+    flex: 1;
+}
+#main {
+display: flex;
+flex: 2;
+align-items: center;
+justify-content: center;
+}
+#parent {
+    display: flex;
+    height: 100%;
+}
+#footer {
+    display: flex;
+    background-color: #047704;
+    color: #ffffff;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+}
