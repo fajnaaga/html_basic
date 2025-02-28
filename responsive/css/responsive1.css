@@ -1,0 +1,26 @@
+#navbar {
+   
+    background-color:#0000ff;
+    height: 40px;
+}
+#container {
+    display:flex;
+    flex-direction: column;
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+
+}
+#section1 {
+    background-color: #ffa500;
+    flex: 1;
+ 
+
+}
+
+#section2 {
+    background-color: #ff0000;
+    flex: 1;
+
+}
