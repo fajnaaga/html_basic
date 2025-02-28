@@ -1,0 +1,12 @@
+/* Mobile: blue
+Tablet: red
+Laptop: green */
+#screen {
+    background-color: #2828e6;
+    @media (min-width: 768px) {
+        background-color: #ff0000;
+    }
+    @media (min-width: 1024px) {
+        background-color: #008000;
+    }
+} 
