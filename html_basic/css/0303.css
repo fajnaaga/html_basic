@@ -1,0 +1,34 @@
+#navbar {
+   
+    background-color:#0000ff;
+    color: white;
+    height: 40px;
+}
+#parent {
+    display:flex;
+    flex-direction: column;
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+
+}
+#section1 {
+    background-color: orange;
+    flex: 1;
+
+}
+
+#section2 {
+    background-color: green;
+    flex: 1;
+
+@media (min-width: 1024px) {
+        flex: 2;
+    
+    }
+}
+#section3 {
+    background-color: brown;
+    flex: 1;
+}
