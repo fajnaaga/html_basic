@@ -1,0 +1,12 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red; /* Domyślnie kolor dla mobile */
+/*Tablet (min.768px) */
+@media (min-width: 768px) {
+        color: orange;
+}
+/*Laptop (min.1024px) */
+@media (min-width: 1024px) {
+        color: blue;
+    }
+} 
