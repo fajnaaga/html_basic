@@ -1,0 +1,9 @@
+#border {
+    border: 1px solid black; 
+@media (min-width: 768px) {
+    border: 1px dashed red;
+}
+@media (min-width: 1024px) {
+    border: 1px dotted blue;
+}
+}
